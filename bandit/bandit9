@@ -1,0 +1,6 @@
+this secret to this one is strings command
+string filter out all forms of character set and prints out only ascii text
+
+strings data.txt
+
+password : FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
