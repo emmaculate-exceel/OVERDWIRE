@@ -1,0 +1,5 @@
+this password to the stage is found in the root directory was able to fix it with this command
+
+find / -group bandit6 -user bandit7 -size 33c 2>/dev/null
+
+password : morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj 
