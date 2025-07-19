@@ -1,0 +1,6 @@
+this way of this misery is using a one of a kind command (grep)
+it's a text filtering command that can filter content based on users search
+
+cat data.txt | grep -A 2 millonth
+
+Password : dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc 
