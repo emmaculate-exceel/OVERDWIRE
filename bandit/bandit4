@@ -1,0 +1,5 @@
+in this stage you have to use the find command to check for file that are humanly readable
+
+so the command to use is find . -type f -readable -exec echo {} \;
+
+Password: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw 
