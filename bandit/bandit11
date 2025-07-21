@@ -1,3 +1,4 @@
 the way out of this one is a bit tricky you'll have to rotate each character set 13 position forward compared to it current position as it has been rotated 13 position forward before now
 so the command to use is .
 cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+password : 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
