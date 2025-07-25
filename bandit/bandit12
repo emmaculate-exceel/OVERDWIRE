@@ -1,0 +1,6 @@
+wow !!! this one is quite task reverse engineering is what i called it .
+i had to reverse a file from it .bin to a regular text file just to find it secret key
+
+commands like gzip, gzip2 [-d ,-c , > ] , tar, xxd and file all played a crucial role in revealing the file true nature .
+
+password : FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn 
