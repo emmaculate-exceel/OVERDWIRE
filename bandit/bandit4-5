@@ -2,4 +2,4 @@ in this stage you have to use the find command to check for file that are humanl
 
 so the command to use is find . -type f -readable -exec echo {} \;
 
-Password: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw 
+Password: 6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG
