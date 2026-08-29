@@ -1,0 +1,5 @@
+i was able to break this stage using the base64 command line tool
+
+base64 --decode data.txt
+
+password : pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro
