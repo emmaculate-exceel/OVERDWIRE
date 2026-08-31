@@ -1,0 +1,5 @@
+this feet was achieved using the another string filtering tools
+
+sort data.txt | uniq -c
+
+password : EjmOSvuAu7sGAHqHVcBDPirRe9T03kxl
